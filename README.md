@@ -7,6 +7,6 @@ Exodia pure edition : includes only the bare minimum packages required to boot t
 
 mkdir {work,out} 
 
-sudo ./makeExodiaISO -v -w work -o out exodia-pure 
+sudo ./makeExodiaISO -v -w work -o out exodia-pure-src 
 
 ~~~
